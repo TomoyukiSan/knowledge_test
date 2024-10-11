@@ -10,7 +10,7 @@ T-shoot
 
 # 詳細
 ## 1.`小麦を買う`
-がががががががが
+がががががががが  
 おいしいパンケーキ
 
 ![image](https://github.com/user-attachments/assets/d1d79621-9c0d-4b78-9922-55e65b099ec8)
